@@ -1,7 +1,11 @@
-# Bakery Sales Analysis Dashboard
+# Bakery Sales Analytics | SQL + Power BI Dashboard
 ## Dashboard Preview
 
 ![dashboard](dashboard-preview.png)
+## Dashboard Description
+
+This dashboard provides a visual summary of sales performance, highlighting revenue trends, product-level insights, and profitability analysis for better business decision-making.
+
 ## Project Overview
 This project analyzes bakery sales data to identify revenue trends, top-performing products, and profit-driving items using SQL and Power BI. The dashboard enables quick decision-making by highlighting monthly sales patterns and product-level performance.
 
@@ -13,6 +17,13 @@ The goal is to understand which products generate the most revenue and profit, a
 - SQL (Data Analysis)
 - Power BI (Data Visualization)
 
+## SQL Analysis Highlights
+
+- Used SQL joins to combine sales and product datasets
+- Applied aggregate functions (SUM, COUNT) to calculate revenue and profit
+- Identified top-performing products based on revenue and profitability
+- Analyzed monthly trends using grouped date-based queries
+  
 ## Key Insights
 - Egg Roll generated the highest revenue
 - Chicken Biryani delivered the highest profit
