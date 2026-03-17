@@ -1,5 +1,7 @@
 # Bakery Sales Analysis Dashboard
+## Dashboard Preview
 
+![Dashboard](dashboard_preview.png)
 ## Project Overview
 This project analyzes bakery sales data to uncover insights on revenue, product performance, and profitability using SQL and Power BI.
 
